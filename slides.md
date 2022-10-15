@@ -21,6 +21,8 @@ drawings:
   persist: false
 # use UnoCSS
 css: unocss
+# provide downloadable pdf
+download: true
 ---
 
 # Welcome to Slidev
