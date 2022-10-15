@@ -12,10 +12,8 @@ highlighter: shiki
 lineNumbers: false
 # some information about the slides, markdown enabled
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  ## intro to io-ts
+  Brief io-ts onboarding slides for developers.
 # persist drawings in exports and build
 drawings:
   persist: false
