@@ -16,7 +16,7 @@ Edit the [slides.md](./slides.md) to see the changes.
 
 ## This presentation
 
-This repo contains an intro to io-ts, briefly covering the basic necessary to get a dev team up and
+This repo contains an intro to io-ts, briefly covering the basics necessary to get a dev team up and
 running with the lib.
 
 ## Tools
