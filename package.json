@@ -2,7 +2,7 @@
   "name": "io-ts-intro",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /io-ts-intro/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
